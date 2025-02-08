@@ -49,6 +49,8 @@ Welcome to **Vertex Hub** – the ultimate tool that makes your GTA5 RP server m
 
 1. **Login & Identification:**  
    Vertex Hub uses Discord authentication to securely identify you within our system.
+
+   
    ![connectviadiscord](https://github.com/user-attachments/assets/975ea39a-2e5a-4137-a266-723c42683bf5)
 
 
