@@ -88,12 +88,12 @@ Welcome to **Vertex Hub** – the ultimate tool that makes your GTA5 RP server m
 
 ### 4. Integrate the Merged Files
 
-- **Step:** Once processing is complete, you will receive a link to the merged files.
+- **Step:** Once processing is complete, you will receive a link to the merged resource that consists of merged files.
 - **Action:**  
-  - Download the merged files.
-  - Drag and drop the files into your server folder.
-  - Update your server’s configuration (cfg) accordingly.
-- **Important:** Do **not** rename the merged folder to ensure proper functionality.
+  - Download the resource (press download button).
+  - Drag and drop the resource into your server (resources) folder.
+  - Start the resource inside of the server's cfg.
+- **Important:** Do **not** rename the merged resource to ensure proper functionality.
 
 ---
 
