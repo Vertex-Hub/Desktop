@@ -50,20 +50,16 @@ Welcome to **Vertex Hub** – the ultimate tool that makes your GTA5 RP server m
 1. **Login & Identification:**  
    Vertex Hub uses Discord authentication to securely identify you within our system.
 
-   
-   ![connectviadiscord](https://github.com/user-attachments/assets/975ea39a-2e5a-4137-a266-723c42683bf5)
+2. **Resource Analysis:**  
+   Once logged in, select your resource folder. The tool automatically locates your server configuration (cfg) and detects the resources in use. If it doesn't, you can always select it manually.
 
-
-3. **Resource Analysis:**  
-   Once logged in, select your resource folder. The tool automatically locates your server configuration (cfg) and detects the resources in use.
-
-4. **File Processing & Merging:**  
+3. **File Processing & Merging:**  
    Click the **"Process Files"** button. Vertex Hub scans your files, identifies duplicates, and sends them to our servers for processing and merging.
 
-5. **Integration:**  
+4. **Integration:**  
    After processing, you’ll receive a link to the merged files. Simply drag and drop these files into your server folder and update your configuration file. **Important:** Do not rename the folder, as this may cause integration issues.
 
-6. **Credit System:**  
+5. **Credit System:**  
    Every merge operation uses credits. Credits are calculated based on the number of conflicting files that require merging. You can acquire credits by subscribing to one of our flexible subscription plans.
 
 ---
@@ -74,11 +70,20 @@ Welcome to **Vertex Hub** – the ultimate tool that makes your GTA5 RP server m
 
 - **Step:** Open Vertex Hub and log in using your Discord account.
 - **Why:** This step ensures that you are securely identified in our system.
+  
+
+  ![connectviadiscord](https://github.com/user-attachments/assets/e101af9f-767f-41db-ad72-1c258c507c03)
 
 ### 2. Select Your Resource Folder
 
 - **Step:** Navigate to the resource folder selection within the application.
 - **What Happens:** Vertex Hub will automatically detect your server configuration and list all the resources you’re currently using.
+ ![choosefolder](https://github.com/user-attachments/assets/95b98a0b-c758-4bac-a5eb-f9a40420905c)
+
+
+  After that you should see something like this. It will scan your cfg and select all resources that you are currently using on your server.
+   
+  ![finalizing](https://github.com/user-attachments/assets/a0f6e335-904e-44c9-a58a-d4350e6d8ecd)
 
 ### 3. Process Your Files
 
@@ -87,6 +92,9 @@ Welcome to **Vertex Hub** – the ultimate tool that makes your GTA5 RP server m
   - The tool analyzes all files within your resource folder.
   - It identifies duplicates and conflicts across your resources.
   - These files are then sent to our servers for processing and merging.
+
+     
+   ![processing](https://github.com/user-attachments/assets/138307de-34b2-411e-a819-4c8aab0f4e8c)
   
 - **Visual Cue:** Watch the cinematic merge process as your files are combined seamlessly.
 
