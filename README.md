@@ -133,8 +133,8 @@ This system ensures you only pay for what you use while keeping your server's co
 
 If you encounter any issues or have questions about Vertex Hub, please reach out to our support team:
 
-- **Email:** [support@vertexhub.com](mailto:support@vertexhub.com)
-- **Discord:** Join our official Discord server [here](#) for real-time assistance.
+- **Email:** [support@vertexhub.com](mailto:support@vertex-hub.com)
+- **Discord:** Join our official Discord server [here](https://discord.gg/hxTYtxBS3x) for real-time assistance.
 
 ---
 
