@@ -2,6 +2,8 @@
 
 Welcome to **Vertex Hub** – the ultimate tool that makes your GTA5 RP server mods work together seamlessly. After a year of development, Vertex Hub is here to ensure that your maps, props, collisions, occlusions, and objects are all fully compatible. Read on to learn how it works and how to get started.
 
+![Discord](https://img.shields.io/discord/979856489835528203?style=flat&logo=discord&logoColor=%23ffffff&label=Discord%20Community)
+
 ---
 
 ## Table of Contents
