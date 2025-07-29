@@ -54,12 +54,12 @@ Welcome to **Vertex Hub** – the ultimate tool that makes your GTA5 RP server m
    Once logged in, select your resource folder. The tool automatically locates your server configuration (cfg) and detects the resources in use. If it doesn't, you can always select it manually.
 
 3. **File Processing & Merging:**  
-   Click the **"Process Files"** button. Vertex Hub scans your files, identifies duplicates, and sends them to our servers for processing and merging.
+   Click the **"Process Files"** button. Vertex Hub scans your files, identifies duplicates. You can click "merge" button to proceed with merging process. Vertex Hub sends conflicting files to our servers for processing and merging.
 
 4. **Integration:**  
-   After processing, you’ll receive a link to the merged files. Simply drag and drop these files into your server folder and update your configuration file. **Important:** Do not rename the folder, as this may cause integration issues.
+   After processing, you’ll receive a link to the merged files. Simply drag and drop these files into your server folder and update your configuration file. **Important:** Alawys start vertex-hub resource in the end of the cfg, or you will see issues.
 
-5. **Credit System:**  
+5. **Credit System:**  (currently disabled)
    Every merge operation uses credits. Credits are calculated based on the number of conflicting files that require merging. You can acquire credits by subscribing to one of our flexible subscription plans.
 
 ---
@@ -70,49 +70,61 @@ Welcome to **Vertex Hub** – the ultimate tool that makes your GTA5 RP server m
 
 - **Step:** Open Vertex Hub and log in using your Discord account.
 - **Why:** This step ensures that you are securely identified in our system.
-  
+  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0164d770-af8c-4347-b58d-e9102c81e038" />
 
-  ![connectviadiscord](https://github.com/user-attachments/assets/e101af9f-767f-41db-ad72-1c258c507c03)
+
+
 
 ### 2. Select Your Resource Folder
 
 - **Step:** Navigate to the resource folder selection within the application.
 - **What Happens:** Vertex Hub will automatically detect your server configuration and list all the resources you’re currently using.
- ![choosefolder](https://github.com/user-attachments/assets/95b98a0b-c758-4bac-a5eb-f9a40420905c)
+  <img width="1185" height="713" alt="image" src="https://github.com/user-attachments/assets/e47d1917-567b-4446-9826-20c9caab7d0e" />
+
 
 
   After that you should see something like this. It will scan your cfg and select all resources that you are currently using on your server.
-   
-  ![finalizing](https://github.com/user-attachments/assets/a0f6e335-904e-44c9-a58a-d4350e6d8ecd)
+   <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/207b349f-e4bd-4475-a05d-10ef82eab37c" />
+
+
 
 ### 3. Process Your Files
 
 - **Step:** Click on the **"Process Files"** button.
 - **What Happens:**  
   - The tool analyzes all files within your resource folder.
-  - It identifies duplicates and conflicts across your resources.
-  - These files are then sent to our servers for processing and merging.
+  - It identifies duplicates and conflicts across your resources
+  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/88d86263-37bb-476a-95d8-96eca0496ff7" />
 
      
-   ![processing](https://github.com/user-attachments/assets/138307de-34b2-411e-a819-4c8aab0f4e8c)
-  
-- **Visual Cue:** Watch the cinematic merge process as your files are combined seamlessly.
+
+  - These files are then sent to our servers for processing and merging.
+    <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/488a731d-1267-40db-916f-3e43a5e35c7f" />
+
 
 ### 4. Integrate the Merged Files
 
 - **Step:** Once processing is complete, you will receive a link to the merged resource that consists of merged files.
+- <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/2c1ceb9d-6711-4856-8a11-af12fcea27fe" />
 - **Action:**  
   - Download the resource (press download button).
   - Drag and drop the resource into your server (resources) folder.
-  - Start the resource inside of the server's cfg.
+  - <img width="1411" height="1047" alt="image" src="https://github.com/user-attachments/assets/e4ce101b-e568-4e09-8f2a-18eb2f683ad4" />
+
+  - Start the resource LAST inside of the server's cfg.
+  - <img width="1374" height="737" alt="image" src="https://github.com/user-attachments/assets/39896a47-b31a-4d6b-bc8d-373b33d9cdf9" />
+
 - **Important:** Do **not** rename the merged resource to ensure proper functionality.
 
----
+ 
+
 
 ## Credit System & Subscriptions
 
 - **Credits Usage:**  
   Credits are deducted based on the number of conflicting files that need merging.
+  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/830d7f86-7404-4e60-967f-db365b7d4fe2" />
+
 - **Subscription Plans:**  
   Earn credits by subscribing to one of our multiple plans, tailored to different usage levels and server sizes.
   
@@ -124,8 +136,9 @@ This system ensures you only pay for what you use while keeping your server's co
 
 - **Do Not Rename:**  
   After integrating the merged files, ensure that the folder name remains unchanged. Renaming the folder may result in configuration errors.
-- **System Updates:**  
-  Keep Vertex Hub updated to benefit from the latest improvements and bug fixes.
+- **Add last in cfg:**  
+  You must always keep vertex hub last in the cfg.
+- **LodLights merge:** If you see lodlights floating even after the merge, you would need to manually find duplicates of lodlights ymaps you have and remove them, sorry for inconvenience
 
 ---
 
@@ -133,8 +146,7 @@ This system ensures you only pay for what you use while keeping your server's co
 
 If you encounter any issues or have questions about Vertex Hub, please reach out to our support team:
 
-- **Email:** [support@vertex-hub.com](mailto:support@vertex-hub.com)
-- **Discord:** Join our official Discord server [here](https://discord.gg/hxTYtxBS3x) for real-time assistance.
+- **Discord:** Join our official Discord server [here](https://discord.gg/8pmQM5q7yP) for real-time assistance.
 
 ---
 
